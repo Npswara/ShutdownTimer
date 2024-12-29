@@ -54,6 +54,4 @@ shutdown-timer/
 ├── app/
 │   ├── main.py
 │   └── icon.ico
-│
-├── README.md
-└── requirements.txt
+└── README.md
