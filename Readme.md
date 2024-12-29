@@ -1,6 +1,6 @@
 # Shutdown Timer
 
-Shutdown Timer adalah aplikasi sederhana yang memungkinkan Anda untuk menjadwalkan shutdown komputer Anda setelah jangka waktu tertentu. Aplikasi ini dibuat menggunakan `customtkinter` dan `tkinter`.
+Shutdown Timer adalah aplikasi sederhana yang memungkinkan Anda untuk menjadwalkan shutdown komputer Anda setelah jangka waktu tertentu. Aplikasi ini dibuat menggunakan `customtkinter`.
 
 ## Fitur
 
