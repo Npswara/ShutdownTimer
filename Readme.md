@@ -52,7 +52,7 @@ Shutdown Timer adalah aplikasi sederhana yang memungkinkan Anda untuk menjadwalk
 shutdown-timer/
 │
 ├── app/
-│   ├── src
+│   ├── src/
 │   │    └── icon.ico
 │   └── main.py
 └── README.md
