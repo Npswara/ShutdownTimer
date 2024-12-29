@@ -25,7 +25,7 @@ Shutdown Timer adalah aplikasi sederhana yang memungkinkan Anda untuk menjadwalk
 2. Pindah ke direktori proyek:
 
     ```bash
-    cd shutdown-timer
+    cd ShutdownTimer
     ```
 
 3. Instal dependensi yang diperlukan:
