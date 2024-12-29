@@ -25,7 +25,7 @@ Shutdown Timer adalah aplikasi sederhana yang memungkinkan Anda untuk menjadwalk
 2. Pindah ke direktori proyek:
 
     ```bash
-    cd ShutdownTimer
+    cd ShutdownTimer/app
     ```
 
 3. Instal dependensi yang diperlukan:
@@ -39,8 +39,9 @@ Shutdown Timer adalah aplikasi sederhana yang memungkinkan Anda untuk menjadwalk
 1. Jalankan aplikasi:
 
     ```bash
-    python app/main.py
+    python main.py
     ```
+Note : Jika terdapat error hapus kode : ```app.iconbitmap("src/icon.ico") ```
 
 2. Masukkan waktu shutdown yang diinginkan dalam jam, menit, dan detik.
 3. Klik tombol `Submit` untuk menjadwalkan shutdown.
