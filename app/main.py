@@ -41,7 +41,7 @@ app = customtkinter.CTk()
 app.geometry("300x255")
 app.resizable(False, False)
 app.title("Shutdown Timer")
-app.iconbitmap("src/icon.ico")
+app.iconbitmap("src/icon.ico") #Hapus ini jika code eror
 
 timer_label = customtkinter.CTkLabel(app, text="00:00:00", font=("Helvetica", 40), text_color="white")
 timer_label.pack(pady=20)
