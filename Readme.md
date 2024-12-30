@@ -1,6 +1,7 @@
 # Shutdown Timer
+<img src="https://media.discordapp.net/attachments/1286630989795430423/1322809734243422299/SIMPL_3.png?ex=67723a11&is=6770e891&hm=e3338e502fbf30e6791454f09643db0c76a7a2ce058e62883e1b4e22d1aafaef&=&format=webp&quality=lossless&width=142&height=142" alt="MarshaJKT48" width="400">
 
-Shutdown Timer adalah aplikasi sederhana yang memungkinkan Anda untuk menjadwalkan shutdown komputer Anda setelah jangka waktu tertentu. Aplikasi ini dibuat menggunakan `customtkinter` dan `tkinter`.
+Shutdown Timer adalah aplikasi sederhana yang memungkinkan Anda untuk menjadwalkan shutdown komputer Anda setelah jangka waktu tertentu. Aplikasi ini dibuat menggunakan `customtkinter`.
 
 ## Fitur
 
@@ -24,7 +25,7 @@ Shutdown Timer adalah aplikasi sederhana yang memungkinkan Anda untuk menjadwalk
 2. Pindah ke direktori proyek:
 
     ```bash
-    cd shutdown-timer
+    cd ShutdownTimer/app
     ```
 
 3. Instal dependensi yang diperlukan:
@@ -38,8 +39,9 @@ Shutdown Timer adalah aplikasi sederhana yang memungkinkan Anda untuk menjadwalk
 1. Jalankan aplikasi:
 
     ```bash
-    python app/main.py
+    python main.py
     ```
+Note : Jika terdapat error hapus kode : ```app.iconbitmap("src/icon.ico") ```
 
 2. Masukkan waktu shutdown yang diinginkan dalam jam, menit, dan detik.
 3. Klik tombol `Submit` untuk menjadwalkan shutdown.
@@ -51,8 +53,7 @@ Shutdown Timer adalah aplikasi sederhana yang memungkinkan Anda untuk menjadwalk
 shutdown-timer/
 │
 ├── app/
-│   ├── main.py
-│   └── icon.ico
-│
-├── README.md
-└── requirements.txt
+│   ├── src/
+│   │    └── icon.ico
+│   └── main.py
+└── README.md
