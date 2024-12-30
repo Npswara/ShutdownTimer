@@ -19,7 +19,7 @@ Shutdown Timer adalah aplikasi sederhana yang memungkinkan Anda untuk menjadwalk
 1. Clone repositori ini ke komputer Anda:
 
     ```bash
-    git clone https://github.com/username/shutdown-timer.git
+    git clone https://github.com/Npswara/shutdown-timer.git
     ```
 
 2. Pindah ke direktori proyek:
