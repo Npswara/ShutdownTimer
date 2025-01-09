@@ -1,5 +1,5 @@
 # Shutdown Timer
-<img src="https://media.discordapp.net/attachments/1286630989795430423/1322809734243422299/SIMPL_3.png?ex=67723a11&is=6770e891&hm=e3338e502fbf30e6791454f09643db0c76a7a2ce058e62883e1b4e22d1aafaef&=&format=webp&quality=lossless&width=142&height=142" alt="MarshaJKT48" width="400">
+<img src="https://media.discordapp.net/attachments/1286630989795430423/1322809734243422299/SIMPL_3.png?ex=67723a11&is=6770e891&hm=e3338e502fbf30e6791454f09643db0c76a7a2ce058e62883e1b4e22d1aafaef&=&format=webp&quality=lossless&width=142&height=142" alt="Shutdown Timer" width="400">
 
 Shutdown Timer adalah aplikasi sederhana yang memungkinkan Anda untuk menjadwalkan shutdown komputer Anda setelah jangka waktu tertentu. Aplikasi ini dibuat menggunakan `customtkinter`.
 
